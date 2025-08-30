@@ -78,6 +78,7 @@ h1, h2, h3 {
     background-color: #fff;
     color: var(--dark-gray);
     padding: 20px;
+    margin-right: 39.9px;
     border-radius: 8px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
@@ -307,7 +308,7 @@ h1, h2, h3 {
     }
 
     .about-me {
-        flex: 1;
+        flex: 1; 
     }
 
     .social-icons {
