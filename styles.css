@@ -371,8 +371,14 @@ h1, h2, h3 {
         margin-right: 30px;
     }
 
+    .profile-section h1{
+        position: absolute;
+        top: 220px;
+        right: 65px;
+    }
+
     .about-me{
-        margin-left: 2px;
+        margin-left: 1.5px;
         margin-right: 40px;
     }
 
